@@ -1,8 +1,8 @@
-# Latest
+# Paczka Modów
 
 <a href="https://github.com/TYPOWYSEB4/ModPack/blob/main/Paczka%20Mod%C3%B3w%201.16.5%20Marzec%202021.zip?raw=true">Paczka Modów 1.16.5 Marzec 2021</a>
 
-# Alt
+# Alternatywna Paczka
 
 <a href="https://github.com/TYPOWYSEB4/ModPack/blob/main/Alt%20Paczka%201.16.5%20Marzec%202021.zip?raw=true">Alt Paczka 1.16.5 Marzec 2021</a>
 
@@ -13,3 +13,22 @@
                                     <p>Po odpaleniu Launchera musimy wybrać profil o nazwie <strong>fabric-loader-1.16.5</strong></p></p>
                                     <strong>Fabric: <a href="https://fabricmc.net/use/">https://fabricmc.net/use/</a></strong></p>
                                     <strong>WinRAR: <a href="https://www.winrar.pl/winrar/pobierz">https://www.winrar.pl/winrar/pobierz</a></strong>
+
+# Lista Modów
+
+ <strong>
+                                    <li>Appleskin
+                                    <li>Boosted Brightness
+                                    <li>Fabric Capes
+                                    <li>Durability Viewer
+                                    <li>VoxelMap
+                                    <li>MinecraftCapes Mod
+                                    <li>ModMenu
+                                    <li>OptiFabric
+                                    <li>Optifine
+                                    <li>Phosphor
+                                    <li>Roughly Enough Items
+                                    <li>ShulkerBoxTooltip
+                                    <li>SmoothBoot
+                                    <li>ToroHealth
+                                   </strong>

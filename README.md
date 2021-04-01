@@ -5,6 +5,8 @@
 # Alternatywna Paczka
 
 <a href="https://github.com/TYPOWYSEB4/ModPack/blob/main/Alt%20Paczka%201.16.5%20Marzec%202021.zip?raw=true">Alt Paczka 1.16.5 Marzec 2021</a>
+<p>Paczka ta jest alternatywą dla oryginalnej paczki. Posiada ona mod Sodium zamiast Optifine. Na tej paczce będzie znacząca poprawa wydajności gry kosztem ilości funkcji, które Optifine posiada.</p>
+                                   <p>W paczce znajduje się też kilka zamienników funkcji Optifina takich jak NoFog, Logical Zoom oraz Colormatic.
 
 # Instalcja Modów
 

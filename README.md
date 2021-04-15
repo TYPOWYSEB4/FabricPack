@@ -47,7 +47,7 @@ MaLiLib 0.10.0 - dev.21 arne.5<br>
 ModMenu 1.16.9<br>
 Roughly Enough Items 5.11.202<br>
 Smooth Boot 1.6.0<br>
-OptiFine G7 pre 12<br>
+OptiFine G8 pre 12<br>
 
 # Stare Wersje
 

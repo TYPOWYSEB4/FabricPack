@@ -1,16 +1,16 @@
 # Paczka Modów
 
-<a href="https://github.com/TYPOWYSEB4/ModPack/blob/main/Paczka%20Mod%C3%B3w%201.16.5%20Marzec%202021.zip?raw=true">Paczka Modów 1.16.5 Marzec 2021</a>
+<a href="https://github.com/TYPOWYSEB4/ModPack/blob/main/Paczka%20Mod%C3%B3w%201.16.5%20Kwiecien%202021.zip?raw=true">Paczka Modów 1.16.5 Kwiecien 2021</a>
 
 # Alternatywna Paczka
 
-<a href="https://github.com/TYPOWYSEB4/ModPack/blob/main/Alt%20Paczka%201.16.5%20Marzec%202021.zip?raw=true">Alt Paczka 1.16.5 Marzec 2021</a>
+<a href="https://github.com/TYPOWYSEB4/ModPack/blob/main/Alt%20Paczka%201.16.5%20Kwiecien%202021.zip?raw=true">Alt Paczka 1.16.5 Kwiecien 2021</a>
 <p>Paczka ta jest alternatywą dla oryginalnej paczki. Posiada ona mod Sodium zamiast Optifine. Na tej paczce będzie znacząca poprawa wydajności gry kosztem ilości funkcji, które Optifine posiada.</p>
                                    <p>W paczce znajduje się też kilka zamienników funkcji Optifina takich jak NoFog, Logical Zoom oraz Colormatic.
 
 # Instalcja Modów
 
- <p>Aby zacząć instalować mody potrzebny będzie nam Mod Loader. Potrzebujemy <strong><a href="https://fabricmc.net/use/">Fabrica</a></strong>, którego pobieramy z podanego linka. Na stronie wybieramy <strong>"Download installer (Windows/.EXE)"</strong>. Po pobraniu otwieramy plik i klikamy <strong>uruchom</strong> a następnie wybieramy wersje Minecrafta <strong>1.16.5</strong> oraz wersje Loadera <strong>0.11.2</strong> Gdy to zrobimy klikamy <strong>Instaluj</strong>.</p>
+ <p>Aby zacząć instalować mody potrzebny będzie nam Mod Loader. Potrzebujemy <strong><a href="https://fabricmc.net/use/">Fabrica</a></strong>, którego pobieramy z podanego linka. Na stronie wybieramy <strong>"Download installer (Windows/.EXE)"</strong>. Po pobraniu otwieramy plik i klikamy <strong>uruchom</strong> a następnie wybieramy wersje Minecrafta <strong>1.16.5</strong> oraz wersje Loadera <strong>0.11.3</strong> Gdy to zrobimy klikamy <strong>Instaluj</strong>.</p>
                                     <p>Po pomyślnej instalcji Loadera możemy dodać nasze mody. Pobieramy paczke modów z sekcji poniżej, a następnie wrzucamy ją do <strong>.minecraft/mods.</strong> Ostatnim etapem jest wypakowanie paczki w folderze programem <strong><a href="https://www.winrar.pl/winrar/pobierz">WinRAR</a></strong> poprzez PPM na paczke, a następnie "wypakuj tutaj".</p>
                                     <p>Po odpaleniu Launchera musimy wybrać profil o nazwie <strong>fabric-loader-1.16.5</strong></p></p>
                                     <strong>Fabric: <a href="https://fabricmc.net/use/">https://fabricmc.net/use/</a></strong></p>
@@ -34,3 +34,43 @@
                                     <li>SmoothBoot
                                     <li>ToroHealth
                                    </strong> 
+                                   
+# Changelog
+
+  <p><strong><li> 1.16.5 Kwiecien</strong>
+  
+Fabric Loader 0.11.3 !!!!
+  
+Cloth Config API  4.11.19
+Fabric API 0.32.9
+MaLiLib 0.10.0 - dev.21 arne.5
+ModMenu 1.16.9
+Roughly Enough Items 5.11.202
+Smooth Boot 1.6.0
+OptiFine G7 pre 12
+
+# Stare Wersje
+
+<a href="https://github.com/TYPOWYSEB4/ModPack/blob/main/Paczka%20Mod%C3%B3w%201.16.5%20Marzec%202021.zip?raw=true">Paczka Modów 1.16.5 Marzec 2021</a>
+
+<a href="https://github.com/TYPOWYSEB4/ModPack/blob/main/Alt%20Paczka%201.16.5%20Marzec%202021.zip?raw=true">Alt Paczka 1.16.5 Marzec 2021</a>
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

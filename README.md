@@ -39,15 +39,15 @@
 
   <p><strong>1.16.5 Kwiecien</strong>
   
-<li>Fabric Loader 0.11.3 !!!!
+<li>Fabric Loader 0.11.3 !!!!<br><br>
   
-<li>Cloth Config API  4.11.19
-<li>Fabric API 0.32.9
-<li>MaLiLib 0.10.0 - dev.21 arne.5
-<li>ModMenu 1.16.9
-<li>Roughly Enough Items 5.11.202
-<li>Smooth Boot 1.6.0
-<li>OptiFine G7 pre 12
+Cloth Config API  4.11.19<br>
+Fabric API 0.32.9<br>
+MaLiLib 0.10.0 - dev.21 arne.5<br>
+ModMenu 1.16.9<br>
+Roughly Enough Items 5.11.202<br>
+Smooth Boot 1.6.0<br>
+OptiFine G7 pre 12<br>
 
 # Stare Wersje
 

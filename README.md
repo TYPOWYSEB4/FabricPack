@@ -39,7 +39,7 @@
 
   <p><strong>1.16.5 Kwiecien</strong>
   
-<li>Fabric Loader 0.11.3 !!!!<br><br>
+Fabric Loader 0.11.3 !!!!<br><br>
   
 Cloth Config API  4.11.19<br>
 Fabric API 0.32.9<br>

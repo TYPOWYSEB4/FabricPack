@@ -35,26 +35,7 @@
                                     <li>ToroHealth
                                    </strong> 
                                    
-# Changelog
 
-  <p><strong>1.16.5 Kwiecien</strong>
-  
-Fabric Loader 0.11.3 !!!!<br><br>
-  
-Cloth Config API  4.11.19<br>
-Fabric API 0.32.9<br>
-MaLiLib 0.10.0 - dev.21 arne.5<br>
-ModMenu 1.16.9<br>
-Roughly Enough Items 5.11.202<br>
-Smooth Boot 1.6.0<br>
-OptiFine G8 pre 12<br>
-
-# Stare Wersje
-
-<strong><a href="https://github.com/TYPOWYSEB4/ModPack/blob/main/Paczka%20Mod%C3%B3w%201.16.5%20Marzec%202021.zip?raw=true">Paczka Modów 1.16.5 Marzec 2021</a>
-
-<a href="https://github.com/TYPOWYSEB4/ModPack/blob/main/Alt%20Paczka%201.16.5%20Marzec%202021.zip?raw=true">Alt Paczka 1.16.5 Marzec 2021</a></strong>
-  
   
  
   

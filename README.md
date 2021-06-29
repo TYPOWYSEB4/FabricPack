@@ -12,24 +12,7 @@
                                     <strong>Fabric: <a href="https://fabricmc.net/use/">https://fabricmc.net/use/</a></strong></p>
                                     <strong>WinRAR: <a href="https://www.winrar.pl/winrar/pobierz">https://www.winrar.pl/winrar/pobierz</a></strong>
 
-# Lista Modów
 
- <strong>
-                                    <li>Appleskin
-                                    <li>Boosted Brightness
-                                    <li>Fabric Capes
-                                    <li>Durability Viewer
-                                    <li>VoxelMap
-                                    <li>MinecraftCapes Mod
-                                    <li>ModMenu
-                                    <li>OptiFabric
-                                    <li>Optifine
-                                    <li>Phosphor
-                                    <li>Roughly Enough Items
-                                    <li>ShulkerBoxTooltip
-                                    <li>SmoothBoot
-                                    <li>ToroHealth
-                                   </strong> 
                                    
 
   
